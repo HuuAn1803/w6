@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">w6</string>
+    <string name="action_fragment1">Now Playing</string>
+    <string name="action_fragment2">Top Rated</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
