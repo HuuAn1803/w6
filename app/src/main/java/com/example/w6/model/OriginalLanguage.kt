@@ -1,4 +1,4 @@
-package com.watasolutions.t7_week6.model
+package com.example.w6.model
 
 enum class OriginalLanguage {
     En,

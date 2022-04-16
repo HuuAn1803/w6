@@ -1,4 +1,4 @@
-package com.watasolutions.t7_week6.services
+package com.example.w6.services
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

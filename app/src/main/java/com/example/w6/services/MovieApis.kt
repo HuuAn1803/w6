@@ -1,6 +1,6 @@
-package com.watasolutions.t7_week6.services
+package com.example.w6.services
 
-import com.watasolutions.t7_week6.model.MovieResp
+import com.example.w6.model.MovieResp
 import retrofit2.http.GET
 import retrofit2.http.Query
 
